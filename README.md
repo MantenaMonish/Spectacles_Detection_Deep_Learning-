@@ -64,6 +64,6 @@ This tool could be potentially integrated into real-time **surveillance systems*
 
 ---
 
-![image alt](https://github.com/MantenaMonish/Real-Time-Audio-Moderation/blob/b5aebe5bed06660e10c52448ada0c3bbbbdb98f8/AudioMod-mac/cf81689c-6663-4763-aa95-70050a460d20.jpg)
+![image alt](https://github.com/MantenaMonish/Spectacles_Detection_Deep_Learning-/blob/a4e1cf8e9670fab74bc6a9b33128ae717a6132ff/Images/glasses.png)
 
-![image alt](https://github.com/MantenaMonish/Real-Time-Audio-Moderation/blob/7df28d9916757d61de556d0cf4a31eceff9c7998/Audio-Moderator-Cloud/183ee366-535f-4af9-935b-89194ac73ee8.jpg)
+![image alt](https://github.com/MantenaMonish/Spectacles_Detection_Deep_Learning-/blob/a4e1cf8e9670fab74bc6a9b33128ae717a6132ff/Images/no-glasses.png)
