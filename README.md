@@ -66,4 +66,3 @@ This tool could be potentially integrated into real-time **surveillance systems*
 
 ![image alt](https://github.com/MantenaMonish/Spectacles_Detection_Deep_Learning-/blob/a4e1cf8e9670fab74bc6a9b33128ae717a6132ff/Images/glasses.png)
 
-![image alt](https://github.com/MantenaMonish/Spectacles_Detection_Deep_Learning-/blob/a4e1cf8e9670fab74bc6a9b33128ae717a6132ff/Images/no-glasses.png)
